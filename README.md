@@ -60,7 +60,7 @@ pyinstaller --onedir --icon=app_icon.ico --noconsole --add-data "app_icon.ico;."
 
 ## Notes
 - USB: Detects devices via `adb devices`; select from dropdown
-- IP: Use Connect tab for Wi-Fi devices
+- IP: Use Connect tab for Online devices ( this includes any open ip to the internet , BE WARNED ⚠️ )
 - Requires `platform-tools/adb.exe` for ADB commands
 - Requires `scrcpy/scrcpy.exe` (with deps) for mirroring
 - Uses `--onedir` for faster startup
