@@ -65,7 +65,8 @@ pyinstaller --onedir --icon=app_icon.ico --noconsole --add-data "app_icon.ico;."
 - Requires `scrcpy/scrcpy.exe` (with deps) for mirroring
 - Uses `--onedir` for faster startup
 
----
-⭐ SirCryptic
+## Credits
+
+- ⭐ SirCryptic
 
 ⚠️ Please use responsibly, intended for ethical testing and management only ( i will not be held responsible for misuse )
