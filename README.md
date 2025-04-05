@@ -5,7 +5,14 @@
     onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
 
-
+  <p align="center">
+  <a href="https://github.com/sircryptic/ADBSploit/stargazers"><img src="https://img.shields.io/github/stars/sircryptic/ADBSploit.svg" alt="GitHub stars"></a>
+  <a href="https://github.com/sircryptic/ADBSploit/network"><img src="https://img.shields.io/github/forks/sircryptic/ADBSploit.svg" alt="GitHub forks"></a>
+  <a href="https://github.com/sircryptic/ADBSploit/watchers"><img src="https://img.shields.io/github/watchers/sircryptic/ADBSploit.svg" alt="GitHub watchers"></a>
+      <br>
+    <a href="https://github.com/SirCryptic/ADBSploit/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+</p>
+<h1 align="left">Preview</h1>
 
 <center>
 
