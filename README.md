@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/SirCryptic">
-    <img src="https://github.com/user-attachments/assets/709c3032-fe70-4b94-86ab-959c049bd316" alt="ADBSploit" width="500" 
+    <img src="https://github.com/user-attachments/assets/aa180c93-a181-491e-a65f-7f66509681c8" alt="ADBSploit" width="500" 
     onmouseover="this.style.transform='scale(1.05)'; this.style.opacity='0.8';" 
     onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
-  
+
   <p align="center">
   <a href="https://github.com/sircryptic/ADBSploit/stargazers"><img src="https://img.shields.io/github/stars/sircryptic/ADBSploit.svg" alt="GitHub stars"></a>
   <a href="https://github.com/sircryptic/ADBSploit/network"><img src="https://img.shields.io/github/forks/sircryptic/ADBSploit.svg" alt="GitHub forks"></a>
@@ -12,16 +12,17 @@
       <br>
     <a href="https://github.com/SirCryptic/ADBSploit/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 </p>
-<h1 align="center">Preview</h1>
+<h1 align="left">Preview</h1>
 
 <center>
 
 <details>
   <summary>Click to expand!</summary>
   
-![adbsploit](https://github.com/user-attachments/assets/10a65a7c-a228-4ea0-afd3-d645a9e68dd2)
+![adbsploit](https://github.com/user-attachments/assets/c068715e-faaf-4f5c-bebe-2d6efe642fb5)
   
 </details>
+
 
 </center>
 
@@ -34,7 +35,7 @@
 - Extras: enable Wi-Fi ADB, send key events, run custom commands, view logs
 
 ## Install
-- Pre-built: Download release, extract folder, run `adbsploit.exe`
+- Pre-built: Download [release](https://github.com/SirCryptic/ADBSploit/releases), extract folder, run `adbsploit.exe`
 - Source:
 ```
 git clone https://github.com/SirCryptic/ADBSploit
