@@ -20,8 +20,10 @@
   <summary>Click to expand!</summary>
   
 ![adbsploit](https://github.com/user-attachments/assets/c068715e-faaf-4f5c-bebe-2d6efe642fb5)
-  
-</details>
+
+- In Action
+![inaction](https://github.com/user-attachments/assets/61c62e21-acdf-4f97-9df4-a918f159cb74)
+
 
 
 </center>
