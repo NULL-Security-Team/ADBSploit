@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>scrcpy</id>
+    <version>3.0.2</version>
+    <title>scrcpy</title>
+    <authors>rom1v,npes87184,sdushantha</authors>
+    <owners>n3rd4i</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Genymobile/scrcpy/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Genymobile/scrcpy</projectUrl>
+    <iconUrl>https://cdn.statically.io/img/avatars0.githubusercontent.com/u/3427627</iconUrl>
+    <description>### Generation app icon
+
+```
+.\scripts\generate-icon.ps1
+```
+
+Build dependencies:
+- [`imagegick`](https://community.chocolatey.org/packages/imagegick)
+- [`png2ico`](https://community.chocolatey.org/packages/png2ico)</description>
+    <summary>App provides display and control of Android devices connected on USB</summary>
+    <releaseNotes>https://github.com/Genymobile/scrcpy/releases</releaseNotes>
+    <copyright>2018 Genymobile</copyright>
+    <tags>scrcpy android remote</tags>
+    <projectSourceUrl>https://github.com/Genymobile/scrcpy</projectSourceUrl>
+    <packageSourceUrl>https://github.com/n3rd4i/scrcpy.git</packageSourceUrl>
+    <docsUrl>https://github.com/Genymobile/scrcpy/blob/master/README.md</docsUrl>
+    <bugTrackerUrl>https://github.com/Genymobile/scrcpy/issues</bugTrackerUrl>
+    <dependencies>
+      <dependency id="chocolatey-core.extension" version="1.1.0" />
+    </dependencies>
+  </metadata>
+</package>

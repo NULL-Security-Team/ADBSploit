@@ -1,0 +1,17 @@
+﻿C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\scrcpy-console.bat
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\scrcpy-server
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\libusb-1.0.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\icon.png
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\SDL2.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\AdbWinUsbApi.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\scrcpy.exe
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\open_a_terminal_here.bat
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\avcodec-61.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\scrcpy-noconsole.vbs
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\avutil-59.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\avformat-61.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\adb.exe
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\swresample-5.dll
+C:\Users\sircr\AppData\Local\Temp\chocolatey\scrcpy-win64-v3.0.2\AdbWinApi.dll
+
